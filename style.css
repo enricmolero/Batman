@@ -1,0 +1,18 @@
+/* Archivo: css/styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecera {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    p {
+        font-size: 1rem;
+    }
+}
