@@ -9,6 +9,7 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 300px;
     justify-content: center;
 }
 .img {
@@ -36,4 +37,14 @@ table th, .table td {
 .table th {
     background-color: #000000; /* Color de fondo para las celdas de encabezado */
     color: yellow; /* Color de texto para las celdas de encabezado */
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 35%;
+    bottom: 0;
+    margin-left: 500px;
+    margin-right: 500px;
 }
